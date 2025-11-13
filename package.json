@@ -1,0 +1,10 @@
+{
+  "name": "jayakumar-freelance-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "prepublish": "echo 'build placeholder'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
